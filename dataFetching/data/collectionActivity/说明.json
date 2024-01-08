@@ -1,0 +1,5 @@
+{
+    "explain":"一个collection中的activity信息，用于project页面",
+    "method":"对应reservoir的https://docs.reservoir.tools/reference/getcollectionsactivityv6",
+    "localMethod":"对应文件collectionActivity.js"
+}

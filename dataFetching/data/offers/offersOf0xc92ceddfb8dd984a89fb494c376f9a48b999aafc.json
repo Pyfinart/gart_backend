@@ -1,0 +1,3240 @@
+{
+  "orders": [
+    {
+      "id": "0xc635bb5ad0b97f4aae45d8bbbbc1d457e35ced8411cd90df2dc490b15b3d40a3",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x2ff895e051f7a1c29c2d3bdab35c4960e3e1ec72",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "63200000000000000",
+          "decimal": 0.0632,
+          "usd": 129.27793,
+          "native": 0.0632
+        },
+        "netAmount": {
+          "raw": "61620000000000000",
+          "decimal": 0.06162,
+          "usd": 126.04598,
+          "native": 0.06162
+        }
+      },
+      "validFrom": 1699862331,
+      "validUntil": 1699862931,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862931,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:58:53.516Z",
+      "updatedAt": "2023-11-13T07:58:53.516Z",
+      "originatedAt": "2023-11-13T07:58:51.564Z"
+    },
+    {
+      "id": "0xf67f61064e536a8239b1d06c79d04a4d9fe7a0aa8bace872fefaca74436f4339",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xd95bd9e1591ea59e1114e2085955f31d964a53c8",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "57000000000000000",
+          "decimal": 0.057,
+          "usd": 116.5956,
+          "native": 0.057
+        },
+        "netAmount": {
+          "raw": "55575000000000000",
+          "decimal": 0.05557,
+          "usd": 113.68071,
+          "native": 0.05557
+        }
+      },
+      "validFrom": 1699862281,
+      "validUntil": 1699864079,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699864079,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:58:04.825Z",
+      "updatedAt": "2023-11-13T07:58:04.825Z",
+      "originatedAt": "2023-11-13T07:58:02.477Z"
+    },
+    {
+      "id": "0xcb1ca7ffadc2fee3f8241cf6b10effdbea93eae3e512b0bfe0805fb8448afc67",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x200f9b71b0c2ed894bdc516567c08e4bcbc330c2",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68100000000000000",
+          "decimal": 0.0681,
+          "usd": 139.30105,
+          "native": 0.0681
+        },
+        "netAmount": {
+          "raw": "66397500000000000",
+          "decimal": 0.0664,
+          "usd": 135.81853,
+          "native": 0.0664
+        }
+      },
+      "validFrom": 1699862246,
+      "validUntil": 1699863145,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699863145,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:57:39.048Z",
+      "updatedAt": "2023-11-13T07:57:39.048Z",
+      "originatedAt": "2023-11-13T07:57:27.162Z"
+    },
+    {
+      "id": "0x68604f69647fd5fd81ffc72548d85c411d8c6f1bb21187cc0320f01ddcdeea6c",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x50161b61b902e6ae7255200a774e937ccfeae65f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "37600000000000000",
+          "decimal": 0.0376,
+          "usd": 76.91218,
+          "native": 0.0376
+        },
+        "netAmount": {
+          "raw": "36660000000000000",
+          "decimal": 0.03666,
+          "usd": 74.98938,
+          "native": 0.03666
+        }
+      },
+      "validFrom": 1699862241,
+      "validUntil": 1700207820,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700207820,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:57:30.213Z",
+      "updatedAt": "2023-11-13T07:57:30.213Z",
+      "originatedAt": "2023-11-13T07:57:28.251Z"
+    },
+    {
+      "id": "0xcde4f97d2d73294654179a5711600f6d9ba1754a5cb8ae62efffb0da34be2a96",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x50161b61b902e6ae7255200a774e937ccfeae65f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "51200000000000000",
+          "decimal": 0.0512,
+          "usd": 104.73148,
+          "native": 0.0512
+        },
+        "netAmount": {
+          "raw": "49920000000000000",
+          "decimal": 0.04992,
+          "usd": 102.1132,
+          "native": 0.04992
+        }
+      },
+      "validFrom": 1699862232,
+      "validUntil": 1700207820,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700207820,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:57:29.264Z",
+      "updatedAt": "2023-11-13T07:57:29.264Z",
+      "originatedAt": "2023-11-13T07:57:27.674Z"
+    },
+    {
+      "id": "0xdbebda466c2740644e1869d9135d723025f08981b9165277a8696961f60b172f",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x50161b61b902e6ae7255200a774e937ccfeae65f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "60700000000000000",
+          "decimal": 0.0607,
+          "usd": 124.16408,
+          "native": 0.0607
+        },
+        "netAmount": {
+          "raw": "59182500000000000",
+          "decimal": 0.05918,
+          "usd": 121.05998,
+          "native": 0.05918
+        }
+      },
+      "validFrom": 1699862225,
+      "validUntil": 1700121360,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700121360,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:57:28.466Z",
+      "updatedAt": "2023-11-13T07:57:28.466Z",
+      "originatedAt": "2023-11-13T07:57:27.042Z"
+    },
+    {
+      "id": "0x0d3ddda66e8dab4499cd61b4d0daa232208e1a2772b4c244893737d3e1f41ceb",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x200f9b71b0c2ed894bdc516567c08e4bcbc330c2",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68100000000000000",
+          "decimal": 0.0681,
+          "usd": 139.30105,
+          "native": 0.0681
+        },
+        "netAmount": {
+          "raw": "66397500000000000",
+          "decimal": 0.0664,
+          "usd": 135.81853,
+          "native": 0.0664
+        }
+      },
+      "validFrom": 1699862065,
+      "validUntil": 1699862965,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862965,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:54:29.701Z",
+      "updatedAt": "2023-11-13T07:54:29.701Z",
+      "originatedAt": "2023-11-13T07:54:26.486Z"
+    },
+    {
+      "id": "0x1c6af3399572ebf971d71028304a2805883cc6e691e8a55c3132113010edee10",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xd93bea8972f02df40d1df236757de7b7cfb6a04c",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "63200000000000000",
+          "decimal": 0.0632,
+          "usd": 129.27793,
+          "native": 0.0632
+        },
+        "netAmount": {
+          "raw": "61620000000000000",
+          "decimal": 0.06162,
+          "usd": 126.04598,
+          "native": 0.06162
+        }
+      },
+      "validFrom": 1699862031,
+      "validUntil": 1699862631,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862631,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:53:54.659Z",
+      "updatedAt": "2023-11-13T07:53:54.659Z",
+      "originatedAt": "2023-11-13T07:53:52.255Z"
+    },
+    {
+      "id": "0xc6b6d9eee05c78390e61ce6a475ef22401f430d566be53f58e934ba204c60c76",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x2ff895e051f7a1c29c2d3bdab35c4960e3e1ec72",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "63200000000000000",
+          "decimal": 0.0632,
+          "usd": 129.27793,
+          "native": 0.0632
+        },
+        "netAmount": {
+          "raw": "61620000000000000",
+          "decimal": 0.06162,
+          "usd": 126.04598,
+          "native": 0.06162
+        }
+      },
+      "validFrom": 1699861933,
+      "validUntil": 1699862533,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862533,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:52:18.936Z",
+      "updatedAt": "2023-11-13T07:52:18.936Z",
+      "originatedAt": "2023-11-13T07:52:14.282Z"
+    },
+    {
+      "id": "0xb4755366eedafc582693800cb4d7d0827f0cf7f9603ca3f72f91de78b10bfd5e",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x3f367d57cd25c0d87787647df35039acf8db9c63",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "62200000000000000",
+          "decimal": 0.0622,
+          "usd": 127.23239,
+          "native": 0.0622
+        },
+        "netAmount": {
+          "raw": "60645000000000000",
+          "decimal": 0.06064,
+          "usd": 124.05158,
+          "native": 0.06064
+        }
+      },
+      "validFrom": 1699861910,
+      "validUntil": 1699863110,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699863110,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:52:00.657Z",
+      "updatedAt": "2023-11-13T07:52:00.657Z",
+      "originatedAt": "2023-11-13T07:51:59.212Z"
+    },
+    {
+      "id": "0x821ff6f3bee3fa7b9bbed0f52b2a7dfa5c313d7756a39f0826f377e1a48ed48d",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x200f9b71b0c2ed894bdc516567c08e4bcbc330c2",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68100000000000000",
+          "decimal": 0.0681,
+          "usd": 139.30105,
+          "native": 0.0681
+        },
+        "netAmount": {
+          "raw": "66397500000000000",
+          "decimal": 0.0664,
+          "usd": 135.81853,
+          "native": 0.0664
+        }
+      },
+      "validFrom": 1699861886,
+      "validUntil": 1699862785,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862785,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:51:28.507Z",
+      "updatedAt": "2023-11-13T07:51:28.507Z",
+      "originatedAt": "2023-11-13T07:51:26.622Z"
+    },
+    {
+      "id": "0x18eadd7f1813cfe0e3f809170c7bba5e6076e8716991024b45b7b242daaee0c4",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x200f9b71b0c2ed894bdc516567c08e4bcbc330c2",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68100000000000000",
+          "decimal": 0.0681,
+          "usd": 139.30105,
+          "native": 0.0681
+        },
+        "netAmount": {
+          "raw": "66397500000000000",
+          "decimal": 0.0664,
+          "usd": 135.81853,
+          "native": 0.0664
+        }
+      },
+      "validFrom": 1699861705,
+      "validUntil": 1699862604,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862604,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:48:26.312Z",
+      "updatedAt": "2023-11-13T07:48:26.312Z",
+      "originatedAt": "2023-11-13T07:48:25.751Z"
+    },
+    {
+      "id": "0x5e3f8ce1dccb58eebdda41c344ebcf9a4974cc6e4bd672570e0da28835a3093a",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x200f9b71b0c2ed894bdc516567c08e4bcbc330c2",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68100000000000000",
+          "decimal": 0.0681,
+          "usd": 139.30105,
+          "native": 0.0681
+        },
+        "netAmount": {
+          "raw": "66397500000000000",
+          "decimal": 0.0664,
+          "usd": 135.81853,
+          "native": 0.0664
+        }
+      },
+      "validFrom": 1699861524,
+      "validUntil": 1699862424,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699862424,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T07:45:29.708Z",
+      "updatedAt": "2023-11-13T07:45:29.708Z",
+      "originatedAt": "2023-11-13T07:45:25.418Z"
+    },
+    {
+      "id": "0x14f8231ccdc31b1fa01f9d94200b1509800adfc2f43bf10448e9fb7181c2ae4e",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf681ea34636a1dd5ce33548f4ab85bb718d560ef",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "4100000000000000",
+          "decimal": 0.0041,
+          "usd": 8.3867,
+          "native": 0.0041
+        },
+        "netAmount": {
+          "raw": "3997500000000000",
+          "decimal": 0.004,
+          "usd": 8.17703,
+          "native": 0.004
+        }
+      },
+      "validFrom": 1699856798,
+      "validUntil": 1699889198,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699889198,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T06:26:41.243Z",
+      "updatedAt": "2023-11-13T06:26:41.243Z",
+      "originatedAt": "2023-11-13T06:26:39.996Z"
+    },
+    {
+      "id": "0x59836b58454cd987e525fda323248fcfd7776dc0d2b0516d6066d6da8bc75cb7",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf681ea34636a1dd5ce33548f4ab85bb718d560ef",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "4100000000000000",
+          "decimal": 0.0041,
+          "usd": 8.3867,
+          "native": 0.0041
+        },
+        "netAmount": {
+          "raw": "3997500000000000",
+          "decimal": 0.004,
+          "usd": 8.17703,
+          "native": 0.004
+        }
+      },
+      "validFrom": 1699849597,
+      "validUntil": 1699881997,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699881997,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T04:26:42.176Z",
+      "updatedAt": "2023-11-13T04:26:42.176Z",
+      "originatedAt": "2023-11-13T04:26:38.435Z"
+    },
+    {
+      "id": "0x67660a7fdddd60fe2de37e85516821c1002c0588be1a4e92e294aaaae6ce7e70",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xac94238edaf5e8a02130c72968169468d7d1d557",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2437500000000000",
+          "decimal": 0.00244,
+          "usd": 4.98599,
+          "native": 0.00244
+        }
+      },
+      "validFrom": 1699844500,
+      "validUntil": 1702436497,
+      "quantityFilled": 0,
+      "quantityRemaining": 5,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1702436497,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T03:01:44.230Z",
+      "updatedAt": "2023-11-13T03:01:44.230Z",
+      "originatedAt": "2023-11-13T03:01:43.278Z"
+    },
+    {
+      "id": "0xf3cafa643684fddf3080cbca836bea4d4347e21e50ef5b48cee33a3d0d82b42e",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xac94238edaf5e8a02130c72968169468d7d1d557",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "33300000000000000",
+          "decimal": 0.0333,
+          "usd": 68.11638,
+          "native": 0.0333
+        },
+        "netAmount": {
+          "raw": "32467500000000000",
+          "decimal": 0.03247,
+          "usd": 66.41347,
+          "native": 0.03247
+        }
+      },
+      "validFrom": 1699844488,
+      "validUntil": 1700449283,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700449283,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T03:01:32.512Z",
+      "updatedAt": "2023-11-13T03:01:32.512Z",
+      "originatedAt": "2023-11-13T03:01:30.996Z"
+    },
+    {
+      "id": "0x413e3f725de59a9d9a097a0a253a376f2e0bd3fb7c817e2a9e7335adbb04317d",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xac94238edaf5e8a02130c72968169468d7d1d557",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "51100000000000000",
+          "decimal": 0.0511,
+          "usd": 104.52693,
+          "native": 0.0511
+        },
+        "netAmount": {
+          "raw": "49822500000000000",
+          "decimal": 0.04982,
+          "usd": 101.91376,
+          "native": 0.04982
+        }
+      },
+      "validFrom": 1699844477,
+      "validUntil": 1700449273,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700449273,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T03:01:26.723Z",
+      "updatedAt": "2023-11-13T03:01:26.723Z",
+      "originatedAt": "2023-11-13T03:01:23.049Z"
+    },
+    {
+      "id": "0xc4a7c5087e81f071fc8f80da804fda8f0502a0e49dd8e2e2a1d243202f95f5ef",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x853a5db0da20366fad923f7eeecce52b14769a3e",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "65600000000000000",
+          "decimal": 0.0656,
+          "usd": 134.18721,
+          "native": 0.0656
+        },
+        "netAmount": {
+          "raw": "59368000000000000",
+          "decimal": 0.05937,
+          "usd": 121.43943,
+          "native": 0.05937
+        }
+      },
+      "validFrom": 1699843740,
+      "validUntil": 1700448540,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        },
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700448540,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T02:49:04.593Z",
+      "updatedAt": "2023-11-13T02:49:04.593Z",
+      "originatedAt": "2023-11-13T02:49:02.178Z"
+    },
+    {
+      "id": "0x45640d6440d5af61d510d7072ddda398bf4c27701795e2f49c6e49595c320937",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf681ea34636a1dd5ce33548f4ab85bb718d560ef",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "4000000000000000",
+          "decimal": 0.004,
+          "usd": 8.18215,
+          "native": 0.004
+        },
+        "netAmount": {
+          "raw": "3900000000000000",
+          "decimal": 0.0039,
+          "usd": 7.97759,
+          "native": 0.0039
+        }
+      },
+      "validFrom": 1699842396,
+      "validUntil": 1699874796,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699874796,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T02:26:40.011Z",
+      "updatedAt": "2023-11-13T02:26:40.011Z",
+      "originatedAt": "2023-11-13T02:26:36.986Z"
+    },
+    {
+      "id": "0xe5980345b38a18bcca299abaa56377741f1903ebfd2e8351c0b2ca90105a7180",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x5383b65d3ed1e4fcbb4407521f02c044f7b9aba1",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "37300000000000000",
+          "decimal": 0.0373,
+          "usd": 76.29852,
+          "native": 0.0373
+        },
+        "netAmount": {
+          "raw": "36367500000000000",
+          "decimal": 0.03637,
+          "usd": 74.39106,
+          "native": 0.03637
+        }
+      },
+      "validFrom": 1699841701,
+      "validUntil": 1699934696,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699934696,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T02:15:06.337Z",
+      "updatedAt": "2023-11-13T02:15:06.337Z",
+      "originatedAt": "2023-11-13T02:14:58.737Z"
+    },
+    {
+      "id": "0x776cf675e3c4252d5c81d342ed4e793a345d2faed2c94c29f4893f8751e495a5",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x5383b65d3ed1e4fcbb4407521f02c044f7b9aba1",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "28000000000000000",
+          "decimal": 0.028,
+          "usd": 57.27503,
+          "native": 0.028
+        },
+        "netAmount": {
+          "raw": "27300000000000000",
+          "decimal": 0.0273,
+          "usd": 55.84315,
+          "native": 0.0273
+        }
+      },
+      "validFrom": 1699841699,
+      "validUntil": 1699934694,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699934694,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T02:15:04.807Z",
+      "updatedAt": "2023-11-13T02:15:04.807Z",
+      "originatedAt": "2023-11-13T02:14:56.661Z"
+    },
+    {
+      "id": "0x11e5b5ecec337f2e5182466b55038d9b9d2f6f750907cd4cf8bed21187ab7524",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf4a5e6aefddb163ce52d9f8a3804f2070ea5ada7",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "60200000000000000",
+          "decimal": 0.0602,
+          "usd": 123.14131,
+          "native": 0.0602
+        },
+        "netAmount": {
+          "raw": "58695000000000000",
+          "decimal": 0.05869,
+          "usd": 120.06278,
+          "native": 0.05869
+        }
+      },
+      "validFrom": 1699836462,
+      "validUntil": 1700009220,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700009220,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T00:47:53.071Z",
+      "updatedAt": "2023-11-13T00:47:53.071Z",
+      "originatedAt": "2023-11-13T00:47:48.970Z"
+    },
+    {
+      "id": "0xbdce0f5f1a52401a0ef11474534c0991a35c5be3680750f410c78c93867d30c0",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf681ea34636a1dd5ce33548f4ab85bb718d560ef",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "4100000000000000",
+          "decimal": 0.0041,
+          "usd": 8.3867,
+          "native": 0.0041
+        },
+        "netAmount": {
+          "raw": "3997500000000000",
+          "decimal": 0.004,
+          "usd": 8.17703,
+          "native": 0.004
+        }
+      },
+      "validFrom": 1699835194,
+      "validUntil": 1699867594,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699867594,
+      "isReservoir": null,
+      "createdAt": "2023-11-13T00:26:36.563Z",
+      "updatedAt": "2023-11-13T00:26:36.563Z",
+      "originatedAt": "2023-11-13T00:26:35.229Z"
+    },
+    {
+      "id": "0x2e53a91e08d4593e087107139c5c991db859241242e0999e745257f9cddade1d",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xc20c44fcc9368a38343d495c0f41bde5ddd505e6",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "71000000000000000",
+          "decimal": 0.071,
+          "usd": 145.23311,
+          "native": 0.071
+        },
+        "netAmount": {
+          "raw": "69225000000000000",
+          "decimal": 0.06922,
+          "usd": 141.60228,
+          "native": 0.06922
+        }
+      },
+      "validFrom": 1699821510,
+      "validUntil": 1699907910,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699907910,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T20:38:43.170Z",
+      "updatedAt": "2023-11-12T20:38:43.170Z",
+      "originatedAt": "2023-11-12T20:38:41.942Z"
+    },
+    {
+      "id": "0x065167dd4631adafafbb0cb03bc9c2c4eca6ea90b03884672a191e41598cd613",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x9e0ef47a08708fa97a46016d3a896d0e14bc9360",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "68000000000000000",
+          "decimal": 0.068,
+          "usd": 139.0965,
+          "native": 0.068
+        },
+        "netAmount": {
+          "raw": "66300000000000000",
+          "decimal": 0.0663,
+          "usd": 135.61909,
+          "native": 0.0663
+        }
+      },
+      "validFrom": 1699814073,
+      "validUntil": 1700418857,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700418857,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T18:34:44.287Z",
+      "updatedAt": "2023-11-12T18:34:44.287Z",
+      "originatedAt": "2023-11-12T18:34:40.644Z"
+    },
+    {
+      "id": "0x6e54f733d99185b181fdc88e90226fda7fc4f8e58ad2087aff572176484504e2",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xe8e66df6cbb5fea9020ca2c78078ca76b3fa5b32",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "8600000000000000",
+          "decimal": 0.0086,
+          "usd": 17.59162,
+          "native": 0.0086
+        },
+        "netAmount": {
+          "raw": "8385000000000000",
+          "decimal": 0.00839,
+          "usd": 17.15183,
+          "native": 0.00839
+        }
+      },
+      "validFrom": 1699812864,
+      "validUntil": 1699899309,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699899309,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T18:14:29.137Z",
+      "updatedAt": "2023-11-12T18:14:29.137Z",
+      "originatedAt": "2023-11-12T18:14:25.319Z"
+    },
+    {
+      "id": "0xa3a80039b686249a38aaebe44ff02c52048ccf6143436ed36c3e5bdea8923557",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x4d0683f23db4fb826761854cb36019ea991c4a3f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "47200000000000000",
+          "decimal": 0.0472,
+          "usd": 96.54934,
+          "native": 0.0472
+        },
+        "netAmount": {
+          "raw": "42716000000000000",
+          "decimal": 0.04272,
+          "usd": 87.37715,
+          "native": 0.04272
+        }
+      },
+      "validFrom": 1699807353,
+      "validUntil": 1699890152,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        }
+      ],
+      "expiration": 1699890152,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T16:42:36.735Z",
+      "updatedAt": "2023-11-12T16:42:36.735Z",
+      "originatedAt": "2023-11-12T16:42:35.696Z"
+    },
+    {
+      "id": "0x595c2d85d3444021fba97aeafbb01cd7fac737856fa64f8b18b57af61a6e9909",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x4d0683f23db4fb826761854cb36019ea991c4a3f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "41200000000000000",
+          "decimal": 0.0412,
+          "usd": 84.27612,
+          "native": 0.0412
+        },
+        "netAmount": {
+          "raw": "37286000000000000",
+          "decimal": 0.03729,
+          "usd": 76.26988,
+          "native": 0.03729
+        }
+      },
+      "validFrom": 1699807349,
+      "validUntil": 1699890148,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        }
+      ],
+      "expiration": 1699890148,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T16:42:32.419Z",
+      "updatedAt": "2023-11-12T16:42:32.419Z",
+      "originatedAt": "2023-11-12T16:42:32.148Z"
+    },
+    {
+      "id": "0x1a8d8ba2350f7d092a54eaf39f23ba55ca50a82ad9dba9b7d842017a55ca168a",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xd5a6c61f02e4212dec386f09c1670bdb300690e9",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "65700000000000000",
+          "decimal": 0.0657,
+          "usd": 134.39177,
+          "native": 0.0657
+        },
+        "netAmount": {
+          "raw": "64057500000000000",
+          "decimal": 0.06406,
+          "usd": 131.03197,
+          "native": 0.06406
+        }
+      },
+      "validFrom": 1699798719,
+      "validUntil": 1699885116,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699885116,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T14:18:42.784Z",
+      "updatedAt": "2023-11-12T14:18:42.784Z",
+      "originatedAt": "2023-11-12T14:18:41.757Z"
+    },
+    {
+      "id": "0xde40d58a78176a5c7d50ec68286617c8202a63f40d8504507e1a522267f4a3a1",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x8f1c5979c2bfd0966455cf5ba34bb71140be9138",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "4600000000000000",
+          "decimal": 0.0046,
+          "usd": 9.40947,
+          "native": 0.0046
+        },
+        "netAmount": {
+          "raw": "4485000000000000",
+          "decimal": 0.00449,
+          "usd": 9.17423,
+          "native": 0.00449
+        }
+      },
+      "validFrom": 1699796588,
+      "validUntil": 1699882988,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699882988,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T13:43:11.489Z",
+      "updatedAt": "2023-11-12T13:43:11.489Z",
+      "originatedAt": "2023-11-12T13:43:10.050Z"
+    },
+    {
+      "id": "0x03f708ffe1a385b503d8cee26e0baf2de98f8c2a3b5f5bb84cb8ef7b55cb67a0",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x50161b61b902e6ae7255200a774e937ccfeae65f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "60800000000000000",
+          "decimal": 0.0608,
+          "usd": 124.36864,
+          "native": 0.0608
+        },
+        "netAmount": {
+          "raw": "59280000000000000",
+          "decimal": 0.05928,
+          "usd": 121.25942,
+          "native": 0.05928
+        }
+      },
+      "validFrom": 1699795184,
+      "validUntil": 1700054340,
+      "quantityFilled": 0,
+      "quantityRemaining": 3,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700054340,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T13:19:54.703Z",
+      "updatedAt": "2023-11-12T13:19:54.703Z",
+      "originatedAt": "2023-11-12T13:19:53.092Z"
+    },
+    {
+      "id": "0xe86c8932aa79197cbd9b5ddedf9eeb7c33602321c7393f5b838bbfb6b450c8be",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x7226760d5db399a26ce384c67827c5279425950d",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "62500000000000000",
+          "decimal": 0.0625,
+          "usd": 127.84605,
+          "native": 0.0625
+        },
+        "netAmount": {
+          "raw": "60937500000000000",
+          "decimal": 0.06094,
+          "usd": 124.6499,
+          "native": 0.06094
+        }
+      },
+      "validFrom": 1699795117,
+      "validUntil": 1699967880,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699967880,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T13:18:48.851Z",
+      "updatedAt": "2023-11-12T13:18:48.851Z",
+      "originatedAt": "2023-11-12T13:18:47.213Z"
+    },
+    {
+      "id": "0x36e5cdd0ffe1d8d1bc2ea6891cb0fc742cc02aa8dc1d08aca2d38c81a660b532",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x7226760d5db399a26ce384c67827c5279425950d",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "65600000000000000",
+          "decimal": 0.0656,
+          "usd": 134.18721,
+          "native": 0.0656
+        },
+        "netAmount": {
+          "raw": "63960000000000000",
+          "decimal": 0.06396,
+          "usd": 130.83253,
+          "native": 0.06396
+        }
+      },
+      "validFrom": 1699795087,
+      "validUntil": 1699967880,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699967880,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T13:18:17.054Z",
+      "updatedAt": "2023-11-12T13:18:17.054Z",
+      "originatedAt": "2023-11-12T13:18:16.410Z"
+    },
+    {
+      "id": "0xd8a6c07fe6c82fe82459d4ddbfc7669650c8883ff7d0ba813176403ae6fb88fb",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xa3974a097095b542f9439bed7abdb7ebed2487ee",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "51200000000000000",
+          "decimal": 0.0512,
+          "usd": 104.73148,
+          "native": 0.0512
+        },
+        "netAmount": {
+          "raw": "49920000000000000",
+          "decimal": 0.04992,
+          "usd": 102.1132,
+          "native": 0.04992
+        }
+      },
+      "validFrom": 1699788116,
+      "validUntil": 1700392913,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700392913,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T11:22:04.437Z",
+      "updatedAt": "2023-11-12T11:22:04.437Z",
+      "originatedAt": "2023-11-12T11:22:01.890Z"
+    },
+    {
+      "id": "0x5fff75cd36d1da3e4697613aeefba89ae0b76388e758bc1479d744295c078e2f",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xe54e098beff6c493feaef6ac273c8ec73028e68b",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "65500000000000000",
+          "decimal": 0.0655,
+          "usd": 133.98266,
+          "native": 0.0655
+        },
+        "netAmount": {
+          "raw": "63862500000000000",
+          "decimal": 0.06386,
+          "usd": 130.63309,
+          "native": 0.06386
+        }
+      },
+      "validFrom": 1699787402,
+      "validUntil": 1700392197,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700392197,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T11:10:05.750Z",
+      "updatedAt": "2023-11-12T11:10:05.750Z",
+      "originatedAt": "2023-11-12T11:10:04.916Z"
+    },
+    {
+      "id": "0x3ec3970a88f48a09187f5d8dabfc8939fe7180daa7c54531adab456c768fb2e7",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xe54e098beff6c493feaef6ac273c8ec73028e68b",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "62300000000000000",
+          "decimal": 0.0623,
+          "usd": 127.43694,
+          "native": 0.0623
+        },
+        "netAmount": {
+          "raw": "60742500000000000",
+          "decimal": 0.06074,
+          "usd": 124.25102,
+          "native": 0.06074
+        }
+      },
+      "validFrom": 1699787374,
+      "validUntil": 1700651280,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700651280,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T11:09:40.140Z",
+      "updatedAt": "2023-11-12T11:09:40.140Z",
+      "originatedAt": "2023-11-12T11:09:37.594Z"
+    },
+    {
+      "id": "0xa2bf392e4da76ec189865fcb54822a451b0ac3b2eb134d03528d0f484d4d52c0",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x9e0ef47a08708fa97a46016d3a896d0e14bc9360",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "65000000000000000",
+          "decimal": 0.065,
+          "usd": 132.95989,
+          "native": 0.065
+        },
+        "netAmount": {
+          "raw": "63375000000000000",
+          "decimal": 0.06338,
+          "usd": 129.63589,
+          "native": 0.06338
+        }
+      },
+      "validFrom": 1699785458,
+      "validUntil": 1700390249,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700390249,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T10:37:46.396Z",
+      "updatedAt": "2023-11-12T10:37:46.396Z",
+      "originatedAt": "2023-11-12T10:37:45.593Z"
+    },
+    {
+      "id": "0x246bd5da92e17de574715198dd92f44bfa24a7e48c96a2d4e717f3d4692f7f4c",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xe54e098beff6c493feaef6ac273c8ec73028e68b",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "56600000000000000",
+          "decimal": 0.0566,
+          "usd": 115.77738,
+          "native": 0.0566
+        },
+        "netAmount": {
+          "raw": "55185000000000000",
+          "decimal": 0.05518,
+          "usd": 112.88295,
+          "native": 0.05518
+        }
+      },
+      "validFrom": 1699785324,
+      "validUntil": 1700649300,
+      "quantityFilled": 0,
+      "quantityRemaining": 3,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700649300,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T10:35:28.390Z",
+      "updatedAt": "2023-11-12T10:35:28.390Z",
+      "originatedAt": "2023-11-12T10:35:27.205Z"
+    },
+    {
+      "id": "0x0979937a805ac94af4a8a67feec6f645d4f8dde9d69cebf04a87d5acf974003d",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x70ece626eb88d53ae079d0fe01fdea04c092d38f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "60600000000000000",
+          "decimal": 0.0606,
+          "usd": 123.95953,
+          "native": 0.0606
+        },
+        "netAmount": {
+          "raw": "59085000000000000",
+          "decimal": 0.05908,
+          "usd": 120.86054,
+          "native": 0.05908
+        }
+      },
+      "validFrom": 1699784575,
+      "validUntil": 1699957320,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699957320,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T10:23:03.149Z",
+      "updatedAt": "2023-11-12T10:23:03.149Z",
+      "originatedAt": "2023-11-12T10:22:59.132Z"
+    },
+    {
+      "id": "0xa1123e734a8269e293accd0f98f2382c0cff4d2c06e1a2bee3f531d277b8f5c6",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x70ece626eb88d53ae079d0fe01fdea04c092d38f",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "62100000000000000",
+          "decimal": 0.0621,
+          "usd": 127.02783,
+          "native": 0.0621
+        },
+        "netAmount": {
+          "raw": "60547500000000000",
+          "decimal": 0.06055,
+          "usd": 123.85214,
+          "native": 0.06055
+        }
+      },
+      "validFrom": 1699784555,
+      "validUntil": 1699957320,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699957320,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T10:22:47.460Z",
+      "updatedAt": "2023-11-12T10:22:47.460Z",
+      "originatedAt": "2023-11-12T10:22:40.191Z"
+    },
+    {
+      "id": "0x6a2719b84ed24d00ee83158a1ee4af5aada7304bdc7e21dbfd2b1d795d130886",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x7226760d5db399a26ce384c67827c5279425950d",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "56500000000000000",
+          "decimal": 0.0565,
+          "usd": 115.57283,
+          "native": 0.0565
+        },
+        "netAmount": {
+          "raw": "55087500000000000",
+          "decimal": 0.05509,
+          "usd": 112.68351,
+          "native": 0.05509
+        }
+      },
+      "validFrom": 1699783766,
+      "validUntil": 1699956540,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1699956540,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T10:10:06.433Z",
+      "updatedAt": "2023-11-12T10:10:06.433Z",
+      "originatedAt": "2023-11-12T10:10:05.203Z"
+    },
+    {
+      "id": "0xc045240aa9a05a99e44b57f9385a2be34f3707c5d7c9640b6faaf88c2ac1eb81",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x068a22e9831314675c9970b9773dc4ada4c12fe4",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2262500000000000",
+          "decimal": 0.00226,
+          "usd": 4.62803,
+          "native": 0.00226
+        }
+      },
+      "validFrom": 1699781308,
+      "validUntil": 1700040508,
+      "quantityFilled": 0,
+      "quantityRemaining": 5,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        },
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700040508,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T09:28:32.338Z",
+      "updatedAt": "2023-11-12T09:28:32.338Z",
+      "originatedAt": "2023-11-12T09:28:30.834Z"
+    },
+    {
+      "id": "0xd30e20dc6c1b79778e927ab8b723a05fe866cad078de8ea80e5f909f8a182156",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x068a22e9831314675c9970b9773dc4ada4c12fe4",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2262500000000000",
+          "decimal": 0.00226,
+          "usd": 4.62803,
+          "native": 0.00226
+        }
+      },
+      "validFrom": 1699772706,
+      "validUntil": 1700031906,
+      "quantityFilled": 0,
+      "quantityRemaining": 5,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        },
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700031906,
+      "isReservoir": null,
+      "createdAt": "2023-11-12T07:05:10.384Z",
+      "updatedAt": "2023-11-12T07:05:10.384Z",
+      "originatedAt": "2023-11-12T07:05:08.649Z"
+    },
+    {
+      "id": "0x182ed7ba07699701aa469d402b3070145985d2abc341387c5bdbd5a1fd57efa3",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x2ee4c45af89774c76a8a73178c281089a8771a00",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "13500000000000000",
+          "decimal": 0.0135,
+          "usd": 27.61475,
+          "native": 0.0135
+        },
+        "netAmount": {
+          "raw": "13162500000000000",
+          "decimal": 0.01316,
+          "usd": 26.92438,
+          "native": 0.01316
+        }
+      },
+      "validFrom": 1699745037,
+      "validUntil": 1702337033,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1702337033,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T23:24:04.199Z",
+      "updatedAt": "2023-11-11T23:24:04.199Z",
+      "originatedAt": "2023-11-11T23:24:03.250Z"
+    },
+    {
+      "id": "0x78c50b35bf816f73c5a5f6e0920c3186c30eb1ada6361b25b2aa793e718c856c",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x2ee4c45af89774c76a8a73178c281089a8771a00",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2437500000000000",
+          "decimal": 0.00244,
+          "usd": 4.98599,
+          "native": 0.00244
+        }
+      },
+      "validFrom": 1699745013,
+      "validUntil": 1702337011,
+      "quantityFilled": 0,
+      "quantityRemaining": 3,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1702337011,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T23:23:39.629Z",
+      "updatedAt": "2023-11-11T23:23:39.629Z",
+      "originatedAt": "2023-11-11T23:23:38.009Z"
+    },
+    {
+      "id": "0x0cb01ea8d999d1929620f1e3665f47107a0af10397c1eb1fc39706fbf1c54637",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xf0e31f356df27e3327146525cba608d8cf2536c0",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "51000000000000000",
+          "decimal": 0.051,
+          "usd": 104.32238,
+          "native": 0.051
+        },
+        "netAmount": {
+          "raw": "49725000000000000",
+          "decimal": 0.04972,
+          "usd": 101.71432,
+          "native": 0.04972
+        }
+      },
+      "validFrom": 1699743233,
+      "validUntil": 1700348028,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700348028,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T22:54:57.077Z",
+      "updatedAt": "2023-11-11T22:54:57.077Z",
+      "originatedAt": "2023-11-11T22:54:55.243Z"
+    },
+    {
+      "id": "0x61f5a1348a9855cf1d4bfc237f9b5c1404a31cc6d45b70092bbdd277ce075161",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0xe8e66df6cbb5fea9020ca2c78078ca76b3fa5b32",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2600000000000000",
+          "decimal": 0.0026,
+          "usd": 5.31839,
+          "native": 0.0026
+        },
+        "netAmount": {
+          "raw": "2535000000000000",
+          "decimal": 0.00253,
+          "usd": 5.18544,
+          "native": 0.00253
+        }
+      },
+      "validFrom": 1699725522,
+      "validUntil": 1700330631,
+      "quantityFilled": 0,
+      "quantityRemaining": 1,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 250,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ],
+      "expiration": 1700330631,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T17:58:43.922Z",
+      "updatedAt": "2023-11-11T17:58:43.922Z",
+      "originatedAt": "2023-11-11T17:58:43.366Z"
+    },
+    {
+      "id": "0xd4171ca408c90e53b01b8a0da61954ccf3d8eb2b38003608f332dacf1204e51e",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x22390f51b04021dff035a2b94ab448e61e3791a6",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2262500000000000",
+          "decimal": 0.00226,
+          "usd": 4.62803,
+          "native": 0.00226
+        }
+      },
+      "validFrom": 1699714388,
+      "validUntil": 1702133588,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        }
+      ],
+      "expiration": 1702133588,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T14:53:11.428Z",
+      "updatedAt": "2023-11-11T14:53:11.428Z",
+      "originatedAt": "2023-11-11T14:53:09.082Z"
+    },
+    {
+      "id": "0x02d9346b5a0d5e90b20bb0b746a41bb82d277bbb0633144c199efbf5d68f778b",
+      "kind": "seaport-v1.5",
+      "side": "buy",
+      "status": "active",
+      "tokenSetId": "dynamic:collection-non-flagged:0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "tokenSetSchemaHash": "0x0852a58469d64e4c3f7fcaa176e5b1c948b19456b0cf8969f9319574134e14c4",
+      "contract": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+      "contractKind": "erc721",
+      "maker": "0x22390f51b04021dff035a2b94ab448e61e3791a6",
+      "taker": "0x0000000000000000000000000000000000000000",
+      "price": {
+        "currency": {
+          "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+        },
+        "amount": {
+          "raw": "2500000000000000",
+          "decimal": 0.0025,
+          "usd": 5.11384,
+          "native": 0.0025
+        },
+        "netAmount": {
+          "raw": "2262500000000000",
+          "decimal": 0.00226,
+          "usd": 4.62803,
+          "native": 0.00226
+        }
+      },
+      "validFrom": 1699714386,
+      "validUntil": 1702133587,
+      "quantityFilled": 0,
+      "quantityRemaining": 2,
+      "criteria": {
+        "kind": "collection",
+        "data": {
+          "collection": {
+            "id": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+          }
+        }
+      },
+      "source": {
+        "id": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "domain": "opensea.io",
+        "name": "OpenSea",
+        "icon": "https://raw.githubusercontent.com/reservoirprotocol/indexer/v5/src/models/sources/opensea-logo.svg",
+        "url": "https://opensea.io/assets/ethereum/0x2d0ee46b804f415be4dc8aa1040834f5125ebd2e/${tokenId}"
+      },
+      "feeBps": 950,
+      "feeBreakdown": [
+        {
+          "bps": 250,
+          "kind": "marketplace",
+          "recipient": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "bps": 700,
+          "kind": "royalty",
+          "recipient": "0x8324bdef2f30e08e368f2fa2f14143cdca77423d"
+        }
+      ],
+      "expiration": 1702133587,
+      "isReservoir": null,
+      "createdAt": "2023-11-11T14:53:08.016Z",
+      "updatedAt": "2023-11-11T14:53:08.016Z",
+      "originatedAt": "2023-11-11T14:53:07.328Z"
+    }
+  ],
+  "continuation": "MTY5OTcxNDM4OC4wMTY1MTJfMHgwMmQ5MzQ2YjVhMGQ1ZTkwYjIwYmIwYjc0NmE0MWJiODJkMjc3YmJiMDYzMzE0NGMxOTllZmJmNWQ2OGY3Nzhi"
+}

@@ -1,0 +1,5 @@
+{
+    "explain":"一个collection中信息，用于project页面，也可以查单张token的offer，但是不能同时查collection和单张token的offer",
+    "method":"对应reservoir的https://docs.reservoir.tools/reference/getordersbidsv6",
+    "localMethod":"对应文件offer.js"
+}
